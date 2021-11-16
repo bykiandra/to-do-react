@@ -1,3 +1,3 @@
-# React Template
+# To Do App
 
-Template for creating React apps using Typescript and Tailwind CSS.
+A simple to do app built using React.
